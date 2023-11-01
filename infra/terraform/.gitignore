@@ -2,4 +2,5 @@
 *.tfstate
 *.tfstate.backup
 *.tfstate.lock.info
+*.tflint.hcl
 .terraform/
